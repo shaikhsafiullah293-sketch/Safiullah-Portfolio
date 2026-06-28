@@ -189,7 +189,7 @@ const Banner = () => {
           <motion.a
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.97 }}
-            href="#work"
+            href="#projects"
             className="rounded-full bg-gradient-to-r from-violet-600 to-cyan-600 px-8 py-3 text-sm font-semibold text-white shadow-[0_0_30px_-5px_rgba(124,58,237,0.4)] dark:from-violet-500 dark:to-cyan-500 dark:shadow-[0_0_30px_-5px_rgba(124,58,237,0.6)]"
           >
            <a></a> View My Work
