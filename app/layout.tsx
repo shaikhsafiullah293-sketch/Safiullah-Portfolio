@@ -13,8 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Safiullah",
-  description: "Portfolio app",
+  title: "Safiullah Portfolio",
+  description: "My personal portfolio website",
+  icons: {
+    icon: "/favicon.png", 
+  },
 };
 
 export default function RootLayout({
